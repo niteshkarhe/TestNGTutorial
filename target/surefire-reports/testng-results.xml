@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="3" passed="3" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-12-05T10:33:45 IST" name="Command line suite" finished-at="2022-12-05T10:33:57 IST" duration-ms="12430">
+    <groups>
+    </groups>
+    <test started-at="2022-12-05T10:33:45 IST" name="Command line test" finished-at="2022-12-05T10:33:57 IST" duration-ms="12430">
+      <class name="com.seleniumeasy.tests.SimpleFormTest">
+        <test-method signature="AnnotationDemonstration()[pri:0, instance:com.seleniumeasy.tests.SimpleFormTest@fa36558]" started-at="2022-12-05T10:33:57 IST" name="AnnotationDemonstration" finished-at="2022-12-05T10:33:57 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AnnotationDemonstration -->
+      </class> <!-- com.seleniumeasy.tests.SimpleFormTest -->
+      <class name="com.seleniumeasy.tests.HomeTest">
+        <test-method is-config="true" signature="BeforeSuite()[pri:0, instance:com.seleniumeasy.tests.HomeTest@5609159b]" started-at="2022-12-05T10:33:45 IST" name="BeforeSuite" finished-at="2022-12-05T10:33:45 IST" duration-ms="62" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BeforeSuite -->
+        <test-method is-config="true" signature="BeforeTest()[pri:0, instance:com.seleniumeasy.tests.HomeTest@5609159b]" started-at="2022-12-05T10:33:45 IST" name="BeforeTest" finished-at="2022-12-05T10:33:45 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BeforeTest -->
+        <test-method is-config="true" signature="BeforeClass()[pri:0, instance:com.seleniumeasy.tests.HomeTest@5609159b]" started-at="2022-12-05T10:33:45 IST" name="BeforeClass" finished-at="2022-12-05T10:33:45 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BeforeClass -->
+        <test-method is-config="true" signature="SetUp()[pri:0, instance:com.seleniumeasy.tests.HomeTest@5609159b]" started-at="2022-12-05T10:33:45 IST" name="SetUp" finished-at="2022-12-05T10:33:45 IST" duration-ms="3" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SetUp -->
+        <test-method signature="VerifySeleniumEasyHomeHeaderMenus()[pri:0, instance:com.seleniumeasy.tests.HomeTest@5609159b]" started-at="2022-12-05T10:33:45 IST" name="VerifySeleniumEasyHomeHeaderMenus" finished-at="2022-12-05T10:33:52 IST" duration-ms="7211" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- VerifySeleniumEasyHomeHeaderMenus -->
+        <test-method is-config="true" signature="TearDown()[pri:0, instance:com.seleniumeasy.tests.HomeTest@5609159b]" started-at="2022-12-05T10:33:52 IST" name="TearDown" finished-at="2022-12-05T10:33:52 IST" duration-ms="475" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TearDown -->
+        <test-method signature="VerifySeleniumEasyHomePageIsDisplayedTest()[pri:0, instance:com.seleniumeasy.tests.HomeTest@5609159b]" started-at="2022-12-05T10:33:52 IST" name="VerifySeleniumEasyHomePageIsDisplayedTest" finished-at="2022-12-05T10:33:57 IST" duration-ms="4165" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- VerifySeleniumEasyHomePageIsDisplayedTest -->
+        <test-method is-config="true" signature="SetUp()[pri:0, instance:com.seleniumeasy.tests.HomeTest@5609159b]" started-at="2022-12-05T10:33:52 IST" name="SetUp" finished-at="2022-12-05T10:33:52 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SetUp -->
+        <test-method is-config="true" signature="TearDown()[pri:0, instance:com.seleniumeasy.tests.HomeTest@5609159b]" started-at="2022-12-05T10:33:57 IST" name="TearDown" finished-at="2022-12-05T10:33:57 IST" duration-ms="439" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TearDown -->
+        <test-method is-config="true" signature="AfterClass()[pri:0, instance:com.seleniumeasy.tests.HomeTest@5609159b]" started-at="2022-12-05T10:33:57 IST" name="AfterClass" finished-at="2022-12-05T10:33:57 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AfterClass -->
+        <test-method is-config="true" signature="AfterTest()[pri:0, instance:com.seleniumeasy.tests.HomeTest@5609159b]" started-at="2022-12-05T10:33:57 IST" name="AfterTest" finished-at="2022-12-05T10:33:57 IST" duration-ms="4" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AfterTest -->
+        <test-method is-config="true" signature="ClassTearDown()[pri:0, instance:com.seleniumeasy.tests.HomeTest@5609159b]" started-at="2022-12-05T10:33:57 IST" name="ClassTearDown" finished-at="2022-12-05T10:33:57 IST" duration-ms="58" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ClassTearDown -->
+      </class> <!-- com.seleniumeasy.tests.HomeTest -->
+    </test> <!-- Command line test -->
+  </suite> <!-- Command line suite -->
+</testng-results>

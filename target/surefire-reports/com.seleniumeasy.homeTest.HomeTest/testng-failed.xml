@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [com.seleniumeasy.homeTest.HomeTest]" verbose="0">
+  <test thread-count="5" name="Command line test(failed)" verbose="0">
+    <classes>
+      <class name="com.seleniumeasy.homeTest.HomeTest">
+        <methods>
+          <include name="VerifySeleniumEasyHomePageIsDisplayedTest"/>
+          <include name="TearDown"/>
+          <include name="ClassTearDown"/>
+        </methods>
+      </class> <!-- com.seleniumeasy.homeTest.HomeTest -->
+    </classes>
+  </test> <!-- Command line test(failed) -->
+</suite> <!-- Failed suite [com.seleniumeasy.homeTest.HomeTest] -->
