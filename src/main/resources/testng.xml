@@ -3,7 +3,12 @@
 	<test name="SeleniumEasyTests">
 		<classes>
 			<!--  <class name="com.seleniumeasy.tests.HomeTest" />  -->
-			<class name="com.seleniumeasy.tests.SimpleFormTest" />
+			<class name="com.seleniumeasy.tests.SimpleFormTest">
+				<methods>
+	        		<include name="ReadExcelData" />
+	        		<!-- <exclude name="AnnotationDemonstration" /> -->
+	      		</methods>
+			</class>
 		</classes>
 	</test>
 	
